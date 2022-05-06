@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Amy Yang! 
+---
+📈 An inspired data analyst passionate about data-driven insight and data science applications
 
+🧠 An inquisitive mind keen on understanding the world with data and make positive impact to people's lives
+
+👩‍🎓 A lifelong learner motivated to study and share the knowledge with the community
+
+---
 <!--
 **amy-panda/amy-panda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->🌱 I’m currently learning
