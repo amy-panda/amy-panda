@@ -16,21 +16,21 @@
 
 
 ### 🧰 Toolbox:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&color=004080&logoColor=ffd24d)
 &nbsp;
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/Code-R-%23276DC3.svg?style=flat&logo=r&color=1572B6&logoColor=1572B6)
 &nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Code-Postgres-%23316192.svg?style=flat&logo=postgresql&color=336791)
 &nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Tool-Git-%23F05033.svg?style=flat&logo=git&color=F05032)
 &nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Tool-Docker-%230db7ed.svg?style=flat&logo=docker&color=1E90FF)
 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&color=0073e6&logoColor=0073e6)
 &nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Tool-GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&color=1aa3ff&logoColor=white)
 
-### Connect with me:
+### 🤝Connect with me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AmyYang160604)
 &nbsp;&nbsp;
