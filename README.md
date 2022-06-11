@@ -1,42 +1,33 @@
 ## Hi there 👋, I am Amy Yang! 
 
-### About me:
 
 📈 An inspired data analyst passionate about data-driven insight and data science applications
 
-🧠 An inquisitive mind keen on understanding the world with data and make positive impact to people's lives
+🧠 An inquisitive mind keen on understanding the world with data and making positive impact to people's lives
 
-👩‍🎓 A lifelong learner and researcher motivated to study and share knowledge with the community
+👩‍🎓 A lifelong learner motivated to study and share knowledge with the community
 
 
 ### 🔭Things I'm currently working on:
 - 
 
-
 ### 🌱Things I'm currently learning:
 - Applied Data Science with Python
 
+
+### 🧰 Toolbox:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/AmyYang160604)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AmyYang160604)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AmyYang160604)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/amy-yang-b45074103)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/amy-yang-b45074103)
-
-
-### Languages and Tools:
-
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
-
-
-<br />
-<br />
-
----
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amy-yang-b45074103)
+&nbsp;&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yan.yang_19647)
 
 </details>
 
@@ -44,7 +35,7 @@
 [linkedin]: https://www.linkedin.com/in/amy-yang-b45074103
 
 
-🧰 Toolbox
+
 
 <!--
 **amy-panda/amy-panda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
