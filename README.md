@@ -16,19 +16,19 @@
 
 
 ### 🧰 Toolbox:
-![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&color=004080&logoColor=ffd24d)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&color=306998&logoColor=FFD43B)
 &nbsp;
-![R](https://img.shields.io/badge/Code-R-%23276DC3.svg?style=flat&logo=r&color=1572B6&logoColor=1572B6)
+![R](https://img.shields.io/badge/Code-R-%23276DC3.svg?style=flat&logo=r&color=165CAA&logoColor=BFC2C5)
 &nbsp;
-![Postgres](https://img.shields.io/badge/Code-Postgres-%23316192.svg?style=flat&logo=postgresql&color=336791)
+![Postgres](https://img.shields.io/badge/Code-Postgres-%23316192.svg?style=flat&logo=postgresql&color=0064a5)
 &nbsp;
 ![Git](https://img.shields.io/badge/Tool-Git-%23F05033.svg?style=flat&logo=git&color=F05032)
 &nbsp;
-![Docker](https://img.shields.io/badge/Tool-Docker-%230db7ed.svg?style=flat&logo=docker&color=1E90FF)
+![Docker](https://img.shields.io/badge/Tool-Docker-%230db7ed.svg?style=flat&logo=docker&color=0db7ed&logoColor=0db7ed)
 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&color=0073e6&logoColor=0073e6)
+![Visual Studio Code](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&color=0078d7&logoColor=0078d7)
 &nbsp;
-![Google Cloud](https://img.shields.io/badge/Tool-GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&color=1aa3ff&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Tool-GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&color=4285F4&logoColor=white)
 
 ### 🤝Connect with me:
 
@@ -38,7 +38,9 @@
 &nbsp;&nbsp;
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yan.yang_19647)
 
-
+<a href="https://www.linkedin.com/in/amy-yang-b45074103/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 
 </details>
 
