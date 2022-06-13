@@ -30,18 +30,27 @@
 &nbsp;
 ![Google Cloud](https://img.shields.io/badge/Tool-GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&color=4285F4&logoColor=white)
 
+### 📝Latest Blog Posts
+- [Data Analysis for Bestselling Books](https://medium.com/@yan.yang_19647/data-analysis-for-bestselling-books-500b2a3c0b03)
+- [Big Data and Artificial Intelligence in Mental Health](https://medium.com/trends-in-data-science/big-data-and-artificial-intelligence-in-mental-health-336ff591aec9)
+
+
+
+
 ### 🤝Connect with me:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AmyYang160604)
-&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/amy-yang-b45074103/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/linkedin_flaticon_riajulislam.png" alt="Amy Yang | LinkedIn" width="21px"/></a>
+<a href="https://medium.com/@yan.yang_19647/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/medium_flaticon_Freepik.png" alt="Amy Yang | Medium" width="21px"/></a>
+<a href="https://twitter.com/AmyYang160604/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/twitter_flaticon_Md_Tanvirul_Haque.png" alt="Amy Yang | Twitter" width="21px"/></a>
+
+
+
+
+<!--
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amy-yang-b45074103)
 &nbsp;&nbsp;
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yan.yang_19647)
 
-<!--
-<a href="https://www.linkedin.com/in/amy-yang-b45074103/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 >
 
 </details>
