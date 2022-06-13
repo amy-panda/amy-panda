@@ -1,6 +1,5 @@
 ## Hi there 👋, I am Amy Yang! 
 
-
 📈 An inspired data analyst passionate about data-driven insight and data science applications
 
 🧠 An inquisitive mind keen on understanding the world with data and making positive impact to people's lives
@@ -9,13 +8,16 @@
 
 
 ### 🔭Things I'm currently working on:
+
 - 
 
 ### 🌱Things I'm currently learning:
+
 - Applied Data Science with Python
 
 
 ### 🧰 Toolbox:
+
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&color=306998&logoColor=FFD43B)
 &nbsp;
 ![R](https://img.shields.io/badge/Code-R-%23276DC3.svg?style=flat&logo=r&color=165CAA&logoColor=BFC2C5)
@@ -31,6 +33,7 @@
 ![Google Cloud](https://img.shields.io/badge/Tool-GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&color=4285F4&logoColor=white)
 
 ### 📝Latest Blog Posts
+
 - [Data Analysis for Bestselling Books](https://medium.com/@yan.yang_19647/data-analysis-for-bestselling-books-500b2a3c0b03)
 - [Big Data and Artificial Intelligence in Mental Health](https://medium.com/trends-in-data-science/big-data-and-artificial-intelligence-in-mental-health-336ff591aec9)
 
