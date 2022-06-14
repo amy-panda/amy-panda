@@ -48,7 +48,7 @@
 
 ## 📈 GitHub Stats 
 
-<a href="https://github.com/amy-panda"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amy-panda&show_icons=true&include_all_commits=true&hide_border=true" height="200" alt="Amy's github stats" /></a> <a href="https://github.com/amy-panda/amy-panda"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amy-panda&layout=compact&hide_border=true" height="200" /></a>
+<a href="https://github.com/amy-panda"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amy-panda&show_icons=true&include_all_commits=true&hide_border=false" height="200" alt="Amy's github stats" /></a> <a href="https://github.com/amy-panda/amy-panda"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amy-panda&layout=compact&hide_border=false" height="200" /></a>
 
 
 
