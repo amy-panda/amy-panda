@@ -45,14 +45,10 @@
 - [Data Analysis for Bestselling Books](https://medium.com/@yan.yang_19647/data-analysis-for-bestselling-books-500b2a3c0b03)
 - [Big Data and Artificial Intelligence in Mental Health](https://medium.com/trends-in-data-science/big-data-and-artificial-intelligence-in-mental-health-336ff591aec9)
 
+
 ## 📈 GitHub Stats 
 
-[![Amy's github stats](https://github-readme-stats.vercel.app/api?username=amy-panda&count_private=true&show_icons=true)](https://github.com/amy-panda)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amy-panda&layout=compact)](https://github.com/amy-panda/amy-panda)
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amy-panda&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Amy's github stats" /></a> | <a href="https://github.com/amy-panda/amy-panda"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amy-panda&layout=compact&theme=buefy&hide_border=true" /></a> |
-
+<a href="https://github.com/amy-panda"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amy-panda&show_icons=true&include_all_commits=true&hide_border=true" height="200" alt="Amy's github stats" /></a> <a href="https://github.com/amy-panda/amy-panda"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amy-panda&layout=compact&hide_border=true" height="200" /></a>
 
 
 
