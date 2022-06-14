@@ -1,4 +1,4 @@
-## Hi there 👋, I am Amy Yang! 
+#  Hi there 👋, I am Amy! 
 
 📈 An inspired data analyst passionate about data-driven insight and data science applications
 
@@ -7,16 +7,22 @@
 👩‍🎓 A lifelong learner motivated to study and share knowledge with the community
 
 
-### 🔭Things I'm currently working on:
+## 🔭 Things I'm currently working on:
 
-- 
+- Text mining project
 
-### 🌱Things I'm currently learning:
+## 🌱Things I'm currently learning:
 
 - Applied Data Science with Python
 
+## 🤝Connect with me:
 
-### 🧰 Toolbox:
+<a href="https://www.linkedin.com/in/amy-yang-b45074103/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/linkedin_flaticon_riajulislam.png" alt="Amy Yang | LinkedIn" width="21px"/></a>
+<a href="https://medium.com/@yan.yang_19647/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/medium_flaticon_Freepik.png" alt="Amy Yang | Medium" width="21px"/></a>
+<a href="https://twitter.com/AmyYang160604/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/twitter_flaticon_Md_Tanvirul_Haque.png" alt="Amy Yang | Twitter" width="21px"/></a>
+</br>
+
+## 🧰 Toolbox:
 
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&color=306998&logoColor=FFD43B)
 &nbsp;
@@ -24,6 +30,8 @@
 &nbsp;
 ![Postgres](https://img.shields.io/badge/Code-Postgres-%23316192.svg?style=flat&logo=postgresql&color=0064a5)
 &nbsp;
+</br>
+
 ![Git](https://img.shields.io/badge/Tool-Git-%23F05033.svg?style=flat&logo=git&color=F05032)
 &nbsp;
 ![Docker](https://img.shields.io/badge/Tool-Docker-%230db7ed.svg?style=flat&logo=docker&color=0db7ed&logoColor=0db7ed)
@@ -32,22 +40,16 @@
 &nbsp;
 ![Google Cloud](https://img.shields.io/badge/Tool-GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&color=4285F4&logoColor=white)
 
-### 📝Latest Blog Posts
+## 📝Latest Blog Posts
 
 - [Data Analysis for Bestselling Books](https://medium.com/@yan.yang_19647/data-analysis-for-bestselling-books-500b2a3c0b03)
 - [Big Data and Artificial Intelligence in Mental Health](https://medium.com/trends-in-data-science/big-data-and-artificial-intelligence-in-mental-health-336ff591aec9)
 
+## 📈 GitHub Stats 
 
+[![Amy's github stats](https://github-readme-stats.vercel.app/api?username=amy-panda&count_private=true&show_icons=true)](https://github.com/amy-panda)
 
-
-### 🤝Connect with me:
-
-<a href="https://www.linkedin.com/in/amy-yang-b45074103/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/linkedin_flaticon_riajulislam.png" alt="Amy Yang | LinkedIn" width="21px"/></a>
-<a href="https://medium.com/@yan.yang_19647/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/medium_flaticon_Freepik.png" alt="Amy Yang | Medium" width="21px"/></a>
-<a href="https://twitter.com/AmyYang160604/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/twitter_flaticon_Md_Tanvirul_Haque.png" alt="Amy Yang | Twitter" width="21px"/></a>
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amy-panda&layout=compact)](https://github.com/amy-panda/amy-panda)
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amy-yang-b45074103)
