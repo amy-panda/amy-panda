@@ -51,19 +51,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amy-panda&layout=compact)](https://github.com/amy-panda/amy-panda)
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amy-panda&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Amy's github stats" /></a> | <a href="https://github.com/amy-panda/amy-panda"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amy-panda&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+
+
+
 <!--
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amy-yang-b45074103)
 &nbsp;&nbsp;
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yan.yang_19647)
 
 >
-
-</details>
-
-[twitter]: https://twitter.com/AmyYang160604
-[linkedin]: https://www.linkedin.com/in/amy-yang-b45074103
-
-
 
 
 <!--
