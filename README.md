@@ -9,7 +9,7 @@
 
 ## ⛳ Things I'm currently working on
 
-- Machine Learning Models for Customer Churn
+- Machine Learning models for customer churn
 - Building data science portfolio
 
 ## 🌱Things I'm currently learning
