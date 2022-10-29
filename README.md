@@ -9,12 +9,12 @@
 
 ## ⛳ Things I'm currently working on
 
-- Text mining project
+- Machine Learning Models for Customer Churn
 - Building data science portfolio
 
 ## 🌱Things I'm currently learning
 
-- Applied Data Science with Python
+- Python Machine Learning by  Sebastian Raschka & Vahid Mirjalili
 
 
 ## 🤝Connect with me
