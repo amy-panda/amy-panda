@@ -14,8 +14,7 @@
 
 ## 🌱Things I'm currently learning
 
-- Python Machine Learning by  Sebastian Raschka & Vahid Mirjalili
-
+- Reinforcement Learning by Richard S. Sutton and Andrew G. Barto
 
 ## 🤝Connect with me
 
@@ -48,6 +47,7 @@
 
 - [Data Analysis for Bestselling Books](https://medium.com/@yan.yang_19647/data-analysis-for-bestselling-books-500b2a3c0b03)
 - [Big Data and Artificial Intelligence in Mental Health](https://medium.com/trends-in-data-science/big-data-and-artificial-intelligence-in-mental-health-336ff591aec9)
+- [Critical Summary on the Ethical Use of NLP](https://medium.com/@amyyang-syd/critical-summary-on-the-ethical-use-of-nlp-d0bfc6ba6273)
 
 
 ## 📊 GitHub Stats 
