@@ -1,6 +1,6 @@
 #  Hi there 👋, I am Amy! 
 
-📈 An inspired data analyst passionate about data-driven insight and data science applications
+📈 An inspired machine learning engineer passionate about machine learning applications in e-commerce and healthcare
 
 🧠 An inquisitive mind keen on understanding the world with data and making positive impact to people's lives
 
@@ -9,18 +9,19 @@
 
 ## ⛳ Things I'm currently working on
 
-- Machine Learning models for customer churn
-- Building data science portfolio
+- Building a website with Github Pages
+
 
 ## 🌱Things I'm currently learning
 
-- Reinforcement Learning by Richard S. Sutton and Andrew G. Barto
+- Designing Machine Learning Systems by Chip Huyen
+- Data Science in Production: Building Scalable Model Pipelines by educative
 
 ## 🤝Connect with me
 
 <a href="https://www.linkedin.com/in/amy-yang-b45074103/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/linkedin_flaticon_riajulislam.png" alt="Amy Yang | LinkedIn" width="21px"/></a>
 <a href="https://medium.com/@yan.yang_19647/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/medium_flaticon_Freepik.png" alt="Amy Yang | Medium" width="21px"/></a>
-<a href="https://twitter.com/AmyYang160604/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/twitter_flaticon_Md_Tanvirul_Haque.png" alt="Amy Yang | Twitter" width="21px"/></a>
+<a href="https://x.com/amyyangsyd/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/twitter_flaticon_Md_Tanvirul_Haque.png" alt="Amy Yang | Twitter" width="21px"/></a>
 </br>
 
 ## 🧰 Toolbox
