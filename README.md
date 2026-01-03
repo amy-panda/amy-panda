@@ -13,17 +13,10 @@
 - Improving personalised recommendation system
 
 
-## 🌱Things I'm currently learning
+## 🌱 Things I'm currently learning
 
 - Designing Machine Learning Systems by Chip Huyen
 - Data Science in Production: Building Scalable Model Pipelines by educative
-
-## 🤝Connect with me
-
-<a href="https://www.linkedin.com/in/amy-yang-b45074103/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/linkedin_flaticon_riajulislam.png" alt="Amy Yang | LinkedIn" width="21px"/></a>
-<a href="https://medium.com/@amyyang-syd/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/medium_flaticon_Freepik.png" alt="Amy Yang | Medium" width="21px"/></a>
-<a href="https://x.com/amyyangsyd/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/twitter_flaticon_Md_Tanvirul_Haque.png" alt="Amy Yang | Twitter" width="21px"/></a>
-</br>
 
 ## 🧰 Toolbox
 
@@ -58,7 +51,15 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
 
 
-## 📝Latest Blog Posts
+## 🤝 Connect with me
+
+<a href="https://www.linkedin.com/in/amy-yang-b45074103/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/linkedin_flaticon_riajulislam.png" alt="Amy Yang | LinkedIn" width="21px"/></a>
+<a href="https://medium.com/@amyyang-syd/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/medium_flaticon_Freepik.png" alt="Amy Yang | Medium" width="21px"/></a>
+<a href="https://x.com/amyyangsyd/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/twitter_flaticon_Md_Tanvirul_Haque.png" alt="Amy Yang | Twitter" width="21px"/></a>
+</br>
+
+
+## 📝 Latest Blog Posts
 
 - [Data Analysis for Bestselling Books](https://medium.com/@yan.yang_19647/data-analysis-for-bestselling-books-500b2a3c0b03)
 - [Big Data and Artificial Intelligence in Mental Health](https://medium.com/trends-in-data-science/big-data-and-artificial-intelligence-in-mental-health-336ff591aec9)
