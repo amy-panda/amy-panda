@@ -10,6 +10,7 @@
 ## ⛳ Things I'm currently working on
 
 - Building a website with Github Pages
+- Improving personalised recommendation system
 
 
 ## 🌱Things I'm currently learning
@@ -20,29 +21,42 @@
 ## 🤝Connect with me
 
 <a href="https://www.linkedin.com/in/amy-yang-b45074103/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/linkedin_flaticon_riajulislam.png" alt="Amy Yang | LinkedIn" width="21px"/></a>
-<a href="https://medium.com/@yan.yang_19647/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/medium_flaticon_Freepik.png" alt="Amy Yang | Medium" width="21px"/></a>
+<a href="https://medium.com/@amyyang-syd/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/medium_flaticon_Freepik.png" alt="Amy Yang | Medium" width="21px"/></a>
 <a href="https://x.com/amyyangsyd/"><img align="left" src="https://raw.githubusercontent.com/amy-panda/amy-panda/main/Images/twitter_flaticon_Md_Tanvirul_Haque.png" alt="Amy Yang | Twitter" width="21px"/></a>
 </br>
 
 ## 🧰 Toolbox
 
-![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&color=306998&logoColor=FFD43B)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 &nbsp;
-![R](https://img.shields.io/badge/Code-R-%23276DC3.svg?style=flat&logo=r&color=165CAA&logoColor=BFC2C5)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
 &nbsp;
-![Postgres](https://img.shields.io/badge/Code-Postgres-%23316192.svg?style=flat&logo=postgresql&color=0064a5)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+&nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)
+&nbsp;
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)
 &nbsp;
 </br>
 
-![Git](https://img.shields.io/badge/Tool-Git-%23F05033.svg?style=flat&logo=git&color=F05032)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 &nbsp;
-![Github](https://img.shields.io/badge/Tool-Github-%23F05033.svg?style=flat&logo=github&color=333333)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 &nbsp;
-![Docker](https://img.shields.io/badge/Tool-Docker-%230db7ed.svg?style=flat&logo=docker&color=0db7ed&logoColor=0db7ed)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&color=0078d7&logoColor=0078d7)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 &nbsp;
-![Google Cloud](https://img.shields.io/badge/Tool-GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&color=4285F4&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+&nbsp;
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+
+![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+&nbsp;
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)
+&nbsp;
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
+
 
 ## 📝Latest Blog Posts
 
